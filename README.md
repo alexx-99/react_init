@@ -1,3 +1,3 @@
-# initial React
+# Movie App 2025
 
-initialized React JS
+React JS Fundamentals Course 2025
